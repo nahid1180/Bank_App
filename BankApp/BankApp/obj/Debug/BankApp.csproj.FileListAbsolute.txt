@@ -1,0 +1,9 @@
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\BankApp\BankApp\bin\Debug\BankApp.exe.config
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\BankApp\BankApp\obj\Debug\BankApp.BankUI.resources
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\BankApp\BankApp\obj\Debug\BankApp.Properties.Resources.resources
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\BankApp\BankApp\obj\Debug\BankApp.csproj.GenerateResource.Cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\BankApp\BankApp\bin\Debug\BankApp.exe
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\BankApp\BankApp\bin\Debug\BankApp.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\BankApp\BankApp\obj\Debug\BankApp.exe
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\BankApp\BankApp\obj\Debug\BankApp.pdb
